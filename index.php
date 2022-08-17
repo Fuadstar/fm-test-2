@@ -11,6 +11,10 @@
 <body>
     <h1>Hello Word</h1>
     <p>Lorem ipsum dolor sit amet consectetur.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
